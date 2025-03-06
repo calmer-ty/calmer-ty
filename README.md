@@ -9,9 +9,5 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 
 ### 🚀 Featured Projects
-- 🏠 **[부동산 시뮬레이터](https://github.com/calmer-ty/real-estate-app)**  
+- 🏠 **[부동산 시뮬레이터]([https://github.com/calmer-ty/real-estate-app](https://github.com/calmer-ty/frontend-realestate)**  
   👉 거래된 매물 데이터를 활용해 사용자의 구매력 분석을 제공하는 서비스  
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=calmer-ty&show_icons=true&theme=radical)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=calmer-ty&theme=radical)](https://git.io/streak-stats)
